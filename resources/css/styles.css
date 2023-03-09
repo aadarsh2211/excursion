@@ -5,9 +5,8 @@ body {
 
 }
 
-h1 {
+.header-main {
     font-weight: normal;
     font-size: 50px;
-    text-align: center;
     color: #fff;
 }
